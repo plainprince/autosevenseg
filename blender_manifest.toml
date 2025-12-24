@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "autosevenseg"
+name = "Auto7Seg"
+version = "1.0.0"
+tagline = "Automate creating seven segment clocks"
+maintainer = "plainprince"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
